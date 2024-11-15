@@ -2,6 +2,7 @@
   "compilerOptions": {
     "jsx": "react-jsx",
     "jsxImportSource": "npm:react@^18.3",
-    "jsxImportSourceTypes": "npm:@types/react@^18.3"
+    "jsxImportSourceTypes": "npm:@types/react@^18.3",
+        "lib": ["ES2020", "DOM", "DOM.Iterable"]
   }
 }
