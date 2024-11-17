@@ -7,6 +7,5 @@
   "jsxSingleQuote": true,
   "semi": false,
   "useTabs": false,
-  "tabWidth": 2,
-  "plugins": ["prettier-plugin-tailwindcss"]
+  "tabWidth": 2
 }
